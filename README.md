@@ -36,8 +36,8 @@ DB_NAME=nome_do_banco_de_dados
 ### Passos para Instalação
 1. **Clonar o repositório**:
    \`\`\`bash
-   git clone https://github.com/seu-repositorio/seu-bot
-   cd seu-bot
+   git clone https://github.com/LucasDesignerF/python-captcha-bot
+   cd python-captcha-bot
    \`\`\`
 
 2. **Criar e ativar um ambiente virtual**:
